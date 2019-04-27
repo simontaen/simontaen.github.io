@@ -1,0 +1,3 @@
+name: Simon Tännler
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
